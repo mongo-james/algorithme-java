@@ -102,4 +102,5 @@ la solution x[3] = solution
 - Cours d'analyse numérique
 - Documentation sur les algorithmes de résolution de systèmes linéaires
 - Cours de Programmation Oriente Objet (Java)
+- You Tube
 ```
