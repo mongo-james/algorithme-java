@@ -6,7 +6,7 @@
 Ce projet regroupe plusieurs algorithmes numériques écrits en Java pour la **résolution de systèmes d'équations linéaires** et l'**interpolation**.
 
 Développé dans le cadre de travaux en méthodes numériques, ce code permet de comprendre et d'implémenter des algorithmes fondamentaux.
-et de faciliter le calcul pour les utilisateurs.
+Et de faciliter le calcul pour les utilisateurs.
 ---
 
 ##  Algorithmes inclus
